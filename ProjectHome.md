@@ -1,0 +1,1 @@
+It's real-time communication platform for generic purpose. It is portable for Linux and Windows. It should be able to be used in large-scale, heavy-duty and distributed applications, e.g. LAN/internet-based IM, on-line conference or games ,etc.
